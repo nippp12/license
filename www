@@ -1,0 +1,26 @@
+[
+  {
+    "license": "NIKEYY1234",
+    "expire": "2025-12-31",
+    "hwid": "TEST-HWID-USER-123",
+    "product_name": "Software A"
+  },
+  {
+    "license": "ABCDEF5678",
+    "expire": "2026-06-30",
+    "hwid": "ACTUAL-CLIENT-HWID-ABCDEF",
+    "product_name": "App Pro"
+  },
+  {
+    "license": "EXPIRED999",
+    "expire": "2024-01-15",
+    "hwid": "HWID-KADALUARSA-1",
+    "product_name": "Trial Version"
+  },
+  {
+    "license": "GAMELIC001",
+    "expire": "2027-03-01",
+    "hwid": "HWID-GAMING-XYZ",
+    "product_name": "Game Elite"
+  }
+]
